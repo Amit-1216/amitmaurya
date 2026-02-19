@@ -6,7 +6,7 @@ This repository contains my **personal portfolio website**, built to showcase my
 
 ## 🌐 Live Website
 
-👉 **[View Portfolio](https://YOUR_USERNAME.github.io)**
+👉 **[View Portfolio](https://amit-1216.github.io)**
 *(Replace with your actual live link)*
 
 
